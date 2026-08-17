@@ -1,4 +1,5 @@
 ## Hi there 👋
+![snake gif](https://github.com/JhonLopera02/JhonLopera02/blob/output/github-snake-dark.svg)
 
 <!--
 **JhonLopera02/JhonLopera02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
