@@ -1,10 +1,9 @@
-<div align="center">
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=JhonLopera02&show_icons=true)
 ![Streak](https://streak-stats.demolab.com?user=JhonLopera02)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonLopera02)
 
-</div>
   
   ![snake gif](https://github.com/JhonLopera02/JhonLopera02/blob/output/github-snake-dark.svg)
 
