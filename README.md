@@ -2,14 +2,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=JhonLopera02&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="48%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JhonLopera02&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%"/>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.shion.dev/api?username=JhonLopera02&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JhonLopera02&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%"/>
+</td>
+</tr>
+</table>
 
-
-<br/>
-<img src="https://streak-stats.demolab.com/?user=JhonLopera02&theme=radical&hide_border=false" width="48%"/>
-
-
+<img src="https://streak-stats.demolab.com/?user=JhonLopera02&theme=radical&hide_border=false" width="60%"/>
 
 </div>
 
