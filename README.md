@@ -3,11 +3,13 @@
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=JhonLopera02&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=JhonLopera02&theme=radical&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JhonLopera02&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%"/>
+
 
 <br/>
+<img src="https://streak-stats.demolab.com/?user=JhonLopera02&theme=radical&hide_border=false" width="48%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JhonLopera02&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%"/>
+
 
 </div>
 
